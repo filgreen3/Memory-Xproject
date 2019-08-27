@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ed011a3bd2714f439cf67099fd24e74
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - manager: {instanceID: 0}
+  - GridManager: {instanceID: 0}
+  - data: {instanceID: 0}
+  - ThisUnit: {instanceID: 0}
+  - Icon: {instanceID: 0}
+  - LineSystem: {fileID: 198493388681417982, guid: 9e89317a7afff5240bf6cc4215b72f0e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

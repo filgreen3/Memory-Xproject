@@ -1,0 +1,11 @@
+[Text] Hi, This is simple dialogs|Ralf
+Variation
+[Text] How old are you|Ralf
+[09][Text]I am >18
+[06][Text]I am <18
+EndVariation
+[Text] This is so sad. Can we hit 50 like?|Admin
+SetNextLine
+[00]
+[Text]Let's fight|Ralf
+ActiveSubObject

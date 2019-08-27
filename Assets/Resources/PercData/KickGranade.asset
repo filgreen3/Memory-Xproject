@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fb7edb938de47e4386bfc3b01562da3, type: 3}
+  m_Name: KickGranade
+  m_EditorClassIdentifier: 
+  A_param: 2
+  BA_param: 0
+  "\u0421A_param": 1
+  PowerOfPerc: 1
+  DuratinOfPerc: 2
+  TimeToReuse: 3
+  Icon: {fileID: 0}
+  RadiousOfattack: 5
+  Discription: 12333

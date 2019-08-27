@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17924654b2d32ec46b84f56516eed8e1, type: 3}
+  m_Name: U_Dae 2
+  m_EditorClassIdentifier: 
+  ColorOfFraction: {r: 0, g: 0, b: 0, a: 0}
+  MaxWalk: 5
+  Helty: 50
+  Shild: 40
+  Armor: 2
+  ArmorQulity: 8
+  PercOfUnit: {fileID: 11400000, guid: 580ae5404334ed74aa74f3a1ec7a1333, type: 2}
+  WeaponPosVector: 0
+  Skills: 000000000000000000000000000000000000000000000000
+  Resistans: 00000000000000000000000000000000
+  IconBodyFace: {fileID: 21300000, guid: 3afbcb835551a7e41a3afd06fdd77e38, type: 3}
+  IconBodyBack: {fileID: 21300000, guid: 3afbcb835551a7e41a3afd06fdd77e38, type: 3}
+  WalkIngType: 0
+  Discription: Kil

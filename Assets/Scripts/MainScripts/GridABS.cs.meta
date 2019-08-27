@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c1b7c741051e28a439ee9d0ee816d122
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Map: {instanceID: 0}
+  - NodaLevel: {fileID: 212488203800243958, guid: 0b5d4b4eb80fcef4ba9e03091cff1d9c,
+      type: 2}
+  - MiniNodaLevel: {instanceID: 0}
+  - Manager: {instanceID: 0}
+  - block: {instanceID: 0}
+  - Bloc1: {instanceID: 0}
+  - Shelter: {instanceID: 0}
+  - RadiousShow: {fileID: 1478576174355732, guid: 49ca434408691d04cb2999fa2968d067,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
